@@ -1,0 +1,14 @@
+*
+
+!hypr/
+!hypr/bindings.conf
+!hypr/input.conf
+!hypr/looknfeel.conf
+
+!nvim/
+!nvim/*
+
+!ghostty/
+!ghostty/*
+
+!.gitignore
