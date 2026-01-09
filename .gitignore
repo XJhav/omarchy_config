@@ -1,5 +1,8 @@
 *
 
+!bashrc_backup
+!keyd_backup_default.conf
+
 !hypr/
 !hypr/bindings.conf
 !hypr/input.conf
